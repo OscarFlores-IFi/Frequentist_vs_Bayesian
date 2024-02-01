@@ -162,3 +162,4 @@ cython_debug/
 # Latex file and bib
 *.tex
 *.bib
+*.synctex.gz
